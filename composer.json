@@ -2,7 +2,7 @@
     "name": "kinsta/hello-world-php",
     "description": "An example of how to set your PHP application up to enable deployment on Kinsta App Hosting services.",
     "require": {
-        "php": "~5.6.0"
+        "php": ">=7.4"
     }
 }
 
